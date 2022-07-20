@@ -10,3 +10,6 @@ The goal of this project is to create a model that will use the distinct feature
    * [Ames Housing Presentation](https://github.com/andrewseal/AmesHousing/blob/43d6609c311e386f4c4705f202d1d112560e9e0d/Ames_Housing_Presentation.pdf)
 
 3. Notebooks
+   * [Data Wrangling](https://github.com/andrewseal/AmesHousing/blob/76a23ca31181035310d7a4e4a3d98411b73de555/notebooks/Data_Wrangling.ipynb)
+   * [Exploratory Data Analysis](https://github.com/andrewseal/AmesHousing/blob/76a23ca31181035310d7a4e4a3d98411b73de555/notebooks/EDA.ipynb)
+   * [Modeling](https://github.com/andrewseal/AmesHousing/blob/76a23ca31181035310d7a4e4a3d98411b73de555/notebooks/EDA.ipynb)
