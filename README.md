@@ -6,3 +6,4 @@ The goal of this project is to create a model that will use the distinct feature
    * [Ames Housing Dataset](https://www.kaggle.com/datasets/prevek18/ames-housing-dataset?select=AmesHousing.csv)
 
 2. Documents
+   * [Ames Housing Report](https://github.com/andrewseal/AmesHousing/blob/37e70eb22431bde9096a6ed3e211b64b54e2e81c/Ames_Housing_Report.pdf)
