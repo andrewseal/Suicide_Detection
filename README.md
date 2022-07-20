@@ -3,4 +3,4 @@ The goal of this project is to create a model that will use the distinct feature
 
 ### Table of Contents
 1. Source Data
-  * [Ames Housing Dataset]([https://github.com/montealj/predicting-state-violence/tree/main/raw_data](https://www.kaggle.com/datasets/prevek18/ames-housing-dataset?select=AmesHousing.csv)) 
+  * [Ames Housing Dataset](https://github.com/montealj/predicting-state-violence/tree/main/raw_data)
