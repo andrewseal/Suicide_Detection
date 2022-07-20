@@ -7,3 +7,6 @@ The goal of this project is to create a model that will use the distinct feature
 
 2. Documents
    * [Ames Housing Report](https://github.com/andrewseal/AmesHousing/blob/37e70eb22431bde9096a6ed3e211b64b54e2e81c/Ames_Housing_Report.pdf)
+   * [Ames Housing Presentation](https://github.com/andrewseal/AmesHousing/blob/43d6609c311e386f4c4705f202d1d112560e9e0d/Ames_Housing_Presentation.pdf)
+
+3. Notebooks
