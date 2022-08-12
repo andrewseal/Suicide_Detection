@@ -3,7 +3,7 @@ This project would examines text from two sources.  The first data source is a s
 
 ### Table of Contents
 1. Source Data  
-   * [Suicide Detection Dataset]([https://www.kaggle.com/code/nouranmuhammad/suicide-detection-using-reddit-data/data?select=Suicide_Detection.csv]
+   * [Suicide Detection Dataset](https://www.kaggle.com/code/nouranmuhammad/suicide-detection-using-reddit-data/data?select=Suicide_Detection.csv)
 
 2. Documents
    * [Ames Housing Report](https://github.com/andrewseal/AmesHousing/blob/37e70eb22431bde9096a6ed3e211b64b54e2e81c/Ames_Housing_Report.pdf)
