@@ -1,9 +1,9 @@
-# AmesHousing
-The goal of this project is to create a model that will use the distinct features of homes to predict the Sales Price of a given house.  This type of model could be used in a variety of business settings including by real estate agents who wanted a tool to advise clients or by institutional investors who were looking to purchase  properties or by lenders who want to ensure the purchase price of the mortgages they are underwriting are reasonable.  Although the dataset is unique to a specific location, this type of analysis could be performed for residential and commercial properties in any location where information from past sales is available. 
+# Suicide Detection
+This project would examines text from two sources.  The first data source is a suicide watch subreddit and the second is a teenager forum on the same site.  The goal of this project is to use natural language processing to determine the source of each posting and to identify language patterns consistent with people posting about suicide.  This type of model could be used by schools, parents, or social media companies to create alerts that would notify parents or other interested parties when a person is posting content consistent with language of those who are contemplating suicide.  Alerts of these types could be issued with the idea of intervening and preventing crisis. 
 
 ### Table of Contents
 1. Source Data  
-   * [Ames Housing Dataset](https://www.kaggle.com/datasets/prevek18/ames-housing-dataset?select=AmesHousing.csv)
+   * [Suicide Detection Dataset]([https://www.kaggle.com/code/nouranmuhammad/suicide-detection-using-reddit-data/data?select=Suicide_Detection.csv]
 
 2. Documents
    * [Ames Housing Report](https://github.com/andrewseal/AmesHousing/blob/37e70eb22431bde9096a6ed3e211b64b54e2e81c/Ames_Housing_Report.pdf)
