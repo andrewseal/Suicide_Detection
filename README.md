@@ -9,8 +9,8 @@ The purpose of this project is to develop a model to interpret written text and 
    * [Suicide Detection Dataset](https://www.kaggle.com/code/nouranmuhammad/suicide-detection-using-reddit-data/data?select=Suicide_Detection.csv)
 
 2. Documents
-   * [Suicide Detection Report](https://github.com/andrewseal/Suicide_Detection/blob/45c9e4cfe4b3206c186c08bd01eb943bdb6aa3da/Suicide_Detection_Report.pdf)
-   * [Suicide Detection Presentation](https://github.com/andrewseal/Suicide_Detection/blob/45c9e4cfe4b3206c186c08bd01eb943bdb6aa3da/Suicide_Detection_Presentation.pdf)
+   * [Suicide Detection Report](https://github.com/andrewseal/Suicide_Detection/blob/9fd33fbced04852a51e65a96fb6b826677f4fa0f/Final_Report_Suicide_Detection_AMS.pdf)
+   * [Suicide Detection Presentation](https://github.com/andrewseal/Suicide_Detection/blob/9fd33fbced04852a51e65a96fb6b826677f4fa0f/Final_Presentation_Suicide_Detection_AMS.pdf)
 
 3. Notebooks
    * [Data Wrangling](https://github.com/andrewseal/Suicide_Detection/blob/45c9e4cfe4b3206c186c08bd01eb943bdb6aa3da/notebooks/Data_Wrangling.ipynb)
